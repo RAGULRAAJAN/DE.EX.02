@@ -40,20 +40,19 @@ Developed by: RAGUL RAAJAN .T
 
 RegisterNumber: 23007752 
 # Code:
+![Screenshot 2023-12-27 115522](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/f5d9c494-3d60-420c-b5ed-53c1faf632b6)
 
-![Screenshot 2023-12-27 114237](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/0e276f3b-c725-4437-afa9-ae363c8107fe)
 
 ## RTL realization
-![Screenshot 2023-12-27 114345](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/d833a041-d233-4cf6-88b2-c6182b0b3ec6)
+![Screenshot 2023-12-27 115557](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/1add9a06-04f0-4e93-b943-883509263896)
 
-# Truth Table:
-
-![Screenshot 2023-12-27 114416](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/48ed3a8a-6c74-4131-ab44-586f47a14d41)
-
+## Truth Table:
+![Screenshot 2023-12-27 115800](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/bcf42481-d30b-4f02-a7d9-9d4cffba6216)
 
 ## Output:
 ## Timing Diagram:
 
+![Screenshot 2023-12-27 115816](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/35ed61ac-17dc-420b-a038-c3f28f104b9b)
 
 ## Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.

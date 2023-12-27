@@ -30,7 +30,7 @@ If there are any errors or warnings during the compilation process, Quartus will
 *Verification:
 Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF". Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All. Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## Program:
-*/
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
 

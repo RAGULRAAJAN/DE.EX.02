@@ -40,17 +40,20 @@ Developed by: RAGUL RAAJAN .T
 
 RegisterNumber: 23007752 
 # Code:
-![Screenshot 2023-12-27 101119](https://github.com/RAGULRAAJAN/DE.EX-02/assets/147473144/54cd89b2-8a6a-4562-bb95-6e34508b5141)
+
+![Screenshot 2023-12-27 114237](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/0e276f3b-c725-4437-afa9-ae363c8107fe)
 
 ## RTL realization
-![Screenshot 2023-12-27 101141](https://github.com/RAGULRAAJAN/DE.EX-02/assets/147473144/58377926-01c5-434a-b079-a03880a7c6f4)
+![Screenshot 2023-12-27 114345](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/d833a041-d233-4cf6-88b2-c6182b0b3ec6)
+
 # Truth Table:
 
-![Screenshot 2023-12-27 101154](https://github.com/RAGULRAAJAN/DE.EX-02/assets/147473144/3fdb489e-091e-4ca4-90ce-aef6ab3f60bf)
+![Screenshot 2023-12-27 114416](https://github.com/RAGULRAAJAN/DE.EX.02/assets/147473144/48ed3a8a-6c74-4131-ab44-586f47a14d41)
+
 
 ## Output:
 ## Timing Diagram:
-![Screenshot 2023-12-27 101204](https://github.com/RAGULRAAJAN/DE.EX-02/assets/147473144/244d4108-bd2f-4cb4-ab15-2f11af5dd13d)
+
 
 ## Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.

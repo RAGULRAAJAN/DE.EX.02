@@ -1,5 +1,4 @@
-# Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
+# Implementation of Combinational logic circuit using verilog HDL
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
